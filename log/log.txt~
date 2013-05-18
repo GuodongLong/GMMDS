@@ -1,0 +1,444 @@
+2013/05/15_17:24:10 graph.main.main():Weight of MDS = 1
+2013/05/15_17:24:10 dataHandling.DataLoader.loadDataFromFile():Begin load data from file /home/gulong/workspace/MDS/data/20NG/cs_inDomain.arff
+2013/05/15_17:24:11 dataHandling.DataLoader.loadDataFromFile():Total 3930 samples were loaded!
+2013/05/15_17:24:11 dataHandling.Sparse.removeValues():leftValues= 23374.099999999995, sparse_rate=0.9, total_values = 233741
+2013/05/15_17:24:11 dataHandling.Sparse.removeValues():MIN_ATTR=5
+2013/05/15_17:24:12 dataHandling.Sparse.removeValues():Total 233741 values and 210914 values are changed, changed ratio is 0.9023406248796745
+2013/05/15_17:24:12 graph.main.realCase_sparse():/home/gulong/workspace/MDS/data/20NG/matWekafile_sparse.arff
+2013/05/15_17:24:33 graph.main.realCase_sparse():
+Correctly Classified Instances        2213               62.5671 %
+Incorrectly Classified Instances      1324               37.4329 %
+Kappa statistic                          0.2506
+Mean absolute error                      0.4121
+Root mean squared error                  0.4961
+Relative absolute error                 82.4178 %
+Root relative squared error             99.224  %
+Coverage of cases (0.95 level)          95.2785 %
+Mean rel. region size (0.95 level)      89.3554 %
+Total Number of Instances             3537     
+
+2013/05/15_17:24:33 graph.main.main():Weight of MDS = 2
+2013/05/15_17:24:33 dataHandling.DataLoader.loadDataFromFile():Begin load data from file /home/gulong/workspace/MDS/data/20NG/cs_inDomain.arff
+2013/05/15_17:24:33 dataHandling.DataLoader.loadDataFromFile():Total 3930 samples were loaded!
+2013/05/15_17:24:33 dataHandling.Sparse.removeValues():leftValues= 46748.19999999999, sparse_rate=0.9, total_values = 467482
+2013/05/15_17:24:33 dataHandling.Sparse.removeValues():MIN_ATTR=11
+2013/05/15_17:24:34 dataHandling.Sparse.removeValues():Total 233741 values and 186593 values are changed, changed ratio is 0.7982895598119286
+2013/05/15_17:24:34 graph.main.realCase_sparse():/home/gulong/workspace/MDS/data/20NG/matWekafile_sparse.arff
+2013/05/15_17:24:55 graph.main.realCase_sparse():
+Correctly Classified Instances        2469               69.8049 %
+Incorrectly Classified Instances      1068               30.1951 %
+Kappa statistic                          0.3954
+Mean absolute error                      0.3093
+Root mean squared error                  0.5073
+Relative absolute error                 61.8561 %
+Root relative squared error            101.4532 %
+Coverage of cases (0.95 level)          83.5454 %
+Mean rel. region size (0.95 level)      66.6243 %
+Total Number of Instances             3537     
+
+2013/05/15_17:24:59 graph.main.main():Weight of MDS = 3
+2013/05/15_17:24:59 dataHandling.DataLoader.loadDataFromFile():Begin load data from file /home/gulong/workspace/MDS/data/20NG/cs_inDomain.arff
+2013/05/15_17:24:59 dataHandling.DataLoader.loadDataFromFile():Total 3930 samples were loaded!
+2013/05/15_17:24:59 dataHandling.Sparse.removeValues():leftValues= 70122.29999999999, sparse_rate=0.9, total_values = 701223
+2013/05/15_17:24:59 dataHandling.Sparse.removeValues():MIN_ATTR=17
+2013/05/15_17:25:00 dataHandling.Sparse.removeValues():Total 233741 values and 164077 values are changed, changed ratio is 0.7019607172040848
+2013/05/15_17:25:00 graph.main.realCase_sparse():/home/gulong/workspace/MDS/data/20NG/matWekafile_sparse.arff
+2013/05/15_17:25:21 graph.main.realCase_sparse():
+Correctly Classified Instances        2521               71.2751 %
+Incorrectly Classified Instances      1016               28.7249 %
+Kappa statistic                          0.4255
+Mean absolute error                      0.2875
+Root mean squared error                  0.5151
+Relative absolute error                 57.4902 %
+Root relative squared error            103.0161 %
+Coverage of cases (0.95 level)          77.9474 %
+Mean rel. region size (0.95 level)      56.4885 %
+Total Number of Instances             3537     
+
+2013/05/15_17:25:21 graph.main.main():Weight of MDS = 4
+2013/05/15_17:25:21 dataHandling.DataLoader.loadDataFromFile():Begin load data from file /home/gulong/workspace/MDS/data/20NG/cs_inDomain.arff
+2013/05/15_17:25:21 dataHandling.DataLoader.loadDataFromFile():Total 3930 samples were loaded!
+2013/05/15_17:25:22 dataHandling.Sparse.removeValues():leftValues= 93496.39999999998, sparse_rate=0.9, total_values = 934964
+2013/05/15_17:25:22 dataHandling.Sparse.removeValues():MIN_ATTR=23
+2013/05/15_17:25:22 dataHandling.Sparse.removeValues():Total 233741 values and 144082 values are changed, changed ratio is 0.6164173166025644
+2013/05/15_17:25:22 graph.main.realCase_sparse():/home/gulong/workspace/MDS/data/20NG/matWekafile_sparse.arff
+2013/05/15_17:25:43 graph.main.realCase_sparse():
+Correctly Classified Instances        2677               75.6856 %
+Incorrectly Classified Instances       860               24.3144 %
+Kappa statistic                          0.5138
+Mean absolute error                      0.2452
+Root mean squared error                  0.4803
+Relative absolute error                 49.05   %
+Root relative squared error             96.0634 %
+Coverage of cases (0.95 level)          79.3045 %
+Mean rel. region size (0.95 level)      54.1137 %
+Total Number of Instances             3537     
+
+2013/05/15_17:25:43 graph.main.main():Weight of MDS = 5
+2013/05/15_17:25:43 dataHandling.DataLoader.loadDataFromFile():Begin load data from file /home/gulong/workspace/MDS/data/20NG/cs_inDomain.arff
+2013/05/15_17:25:43 dataHandling.DataLoader.loadDataFromFile():Total 3930 samples were loaded!
+2013/05/15_17:25:44 dataHandling.Sparse.removeValues():leftValues= 116870.49999999997, sparse_rate=0.9, total_values = 1168705
+2013/05/15_17:25:44 dataHandling.Sparse.removeValues():MIN_ATTR=29
+2013/05/15_17:25:44 dataHandling.Sparse.removeValues():Total 233741 values and 126203 values are changed, changed ratio is 0.5399266709734278
+2013/05/15_17:25:44 graph.main.realCase_sparse():/home/gulong/workspace/MDS/data/20NG/matWekafile_sparse.arff
+2013/05/15_17:26:06 graph.main.realCase_sparse():
+Correctly Classified Instances        2831               80.0396 %
+Incorrectly Classified Instances       706               19.9604 %
+Kappa statistic                          0.6007
+Mean absolute error                      0.2018
+Root mean squared error                  0.4373
+Relative absolute error                 40.3606 %
+Root relative squared error             87.4639 %
+Coverage of cases (0.95 level)          82.5841 %
+Mean rel. region size (0.95 level)      53.1524 %
+Total Number of Instances             3537     
+
+2013/05/15_17:26:06 graph.main.main():Weight of MDS = 6
+2013/05/15_17:26:06 dataHandling.DataLoader.loadDataFromFile():Begin load data from file /home/gulong/workspace/MDS/data/20NG/cs_inDomain.arff
+2013/05/15_17:26:06 dataHandling.DataLoader.loadDataFromFile():Total 3930 samples were loaded!
+2013/05/15_17:26:07 dataHandling.Sparse.removeValues():leftValues= 140244.59999999998, sparse_rate=0.9, total_values = 1402446
+2013/05/15_17:26:07 dataHandling.Sparse.removeValues():MIN_ATTR=35
+2013/05/15_17:26:07 dataHandling.Sparse.removeValues():Total 233741 values and 110664 values are changed, changed ratio is 0.47344710598482936
+2013/05/15_17:26:07 graph.main.realCase_sparse():/home/gulong/workspace/MDS/data/20NG/matWekafile_sparse.arff
+2013/05/15_17:26:29 graph.main.realCase_sparse():
+Correctly Classified Instances        2828               79.9548 %
+Incorrectly Classified Instances       709               20.0452 %
+Kappa statistic                          0.5992
+Mean absolute error                      0.2011
+Root mean squared error                  0.4396
+Relative absolute error                 40.2134 %
+Root relative squared error             87.9147 %
+Coverage of cases (0.95 level)          82.2731 %
+Mean rel. region size (0.95 level)      52.2477 %
+Total Number of Instances             3537     
+
+2013/05/15_17:26:29 graph.main.main():Weight of MDS = 7
+2013/05/15_17:26:29 dataHandling.DataLoader.loadDataFromFile():Begin load data from file /home/gulong/workspace/MDS/data/20NG/cs_inDomain.arff
+2013/05/15_17:26:29 dataHandling.DataLoader.loadDataFromFile():Total 3930 samples were loaded!
+2013/05/15_17:26:29 dataHandling.Sparse.removeValues():leftValues= 163618.69999999995, sparse_rate=0.9, total_values = 1636187
+2013/05/15_17:26:29 dataHandling.Sparse.removeValues():MIN_ATTR=41
+2013/05/15_17:26:30 dataHandling.Sparse.removeValues():Total 233741 values and 97420 values are changed, changed ratio is 0.4167861008552201
+2013/05/15_17:26:30 graph.main.realCase_sparse():/home/gulong/workspace/MDS/data/20NG/matWekafile_sparse.arff
+2013/05/15_17:26:52 graph.main.realCase_sparse():
+Correctly Classified Instances        2920               82.5558 %
+Incorrectly Classified Instances       617               17.4442 %
+Kappa statistic                          0.6511
+Mean absolute error                      0.1751
+Root mean squared error                  0.4121
+Relative absolute error                 35.0283 %
+Root relative squared error             82.4154 %
+Coverage of cases (0.95 level)          83.7998 %
+Mean rel. region size (0.95 level)      51.5126 %
+Total Number of Instances             3537     
+
+2013/05/15_17:26:52 graph.main.main():Weight of MDS = 8
+2013/05/15_17:26:52 dataHandling.DataLoader.loadDataFromFile():Begin load data from file /home/gulong/workspace/MDS/data/20NG/cs_inDomain.arff
+2013/05/15_17:26:52 dataHandling.DataLoader.loadDataFromFile():Total 3930 samples were loaded!
+2013/05/15_17:26:53 dataHandling.Sparse.removeValues():leftValues= 186992.79999999996, sparse_rate=0.9, total_values = 1869928
+2013/05/15_17:26:53 dataHandling.Sparse.removeValues():MIN_ATTR=47
+2013/05/15_17:26:53 dataHandling.Sparse.removeValues():Total 233741 values and 86032 values are changed, changed ratio is 0.36806550840460167
+2013/05/15_17:26:53 graph.main.realCase_sparse():/home/gulong/workspace/MDS/data/20NG/matWekafile_sparse.arff
+2013/05/15_17:27:15 graph.main.realCase_sparse():
+Correctly Classified Instances        2923               82.6407 %
+Incorrectly Classified Instances       614               17.3593 %
+Kappa statistic                          0.6526
+Mean absolute error                      0.1737
+Root mean squared error                  0.4093
+Relative absolute error                 34.7385 %
+Root relative squared error             81.8627 %
+Coverage of cases (0.95 level)          84.2522 %
+Mean rel. region size (0.95 level)      51.7388 %
+Total Number of Instances             3537     
+
+2013/05/15_17:27:15 graph.main.main():Weight of MDS = 9
+2013/05/15_17:27:15 dataHandling.DataLoader.loadDataFromFile():Begin load data from file /home/gulong/workspace/MDS/data/20NG/cs_inDomain.arff
+2013/05/15_17:27:15 dataHandling.DataLoader.loadDataFromFile():Total 3930 samples were loaded!
+2013/05/15_17:27:16 dataHandling.Sparse.removeValues():leftValues= 210366.89999999997, sparse_rate=0.9, total_values = 2103669
+2013/05/15_17:27:16 dataHandling.Sparse.removeValues():MIN_ATTR=53
+2013/05/15_17:27:16 dataHandling.Sparse.removeValues():Total 233741 values and 76525 values are changed, changed ratio is 0.32739228462272346
+2013/05/15_17:27:16 graph.main.realCase_sparse():/home/gulong/workspace/MDS/data/20NG/matWekafile_sparse.arff
+2013/05/15_17:27:38 graph.main.realCase_sparse():
+Correctly Classified Instances        2959               83.6585 %
+Incorrectly Classified Instances       578               16.3415 %
+Kappa statistic                          0.6732
+Mean absolute error                      0.1647
+Root mean squared error                  0.3997
+Relative absolute error                 32.9374 %
+Root relative squared error             79.9321 %
+Coverage of cases (0.95 level)          84.8742 %
+Mean rel. region size (0.95 level)      51.5126 %
+Total Number of Instances             3537     
+
+2013/05/15_17:27:38 graph.main.main():Weight of MDS = 10
+2013/05/15_17:27:38 dataHandling.DataLoader.loadDataFromFile():Begin load data from file /home/gulong/workspace/MDS/data/20NG/cs_inDomain.arff
+2013/05/15_17:27:39 dataHandling.DataLoader.loadDataFromFile():Total 3930 samples were loaded!
+2013/05/15_17:27:39 dataHandling.Sparse.removeValues():leftValues= 233740.99999999994, sparse_rate=0.9, total_values = 2337410
+2013/05/15_17:27:39 dataHandling.Sparse.removeValues():MIN_ATTR=58
+2013/05/15_17:27:40 dataHandling.Sparse.removeValues():Total 233741 values and 69924 values are changed, changed ratio is 0.29915162508930826
+2013/05/15_17:27:40 graph.main.realCase_sparse():/home/gulong/workspace/MDS/data/20NG/matWekafile_sparse.arff
+2013/05/15_17:28:01 graph.main.realCase_sparse():
+Correctly Classified Instances        2980               84.2522 %
+Incorrectly Classified Instances       557               15.7478 %
+Kappa statistic                          0.685 
+Mean absolute error                      0.1574
+Root mean squared error                  0.39  
+Relative absolute error                 31.4724 %
+Root relative squared error             78.0093 %
+Coverage of cases (0.95 level)          85.6941 %
+Mean rel. region size (0.95 level)      51.4702 %
+Total Number of Instances             3537     
+
+2013/05/15_17:28:01 graph.main.main():Weight of MDS = 11
+2013/05/15_17:28:01 dataHandling.DataLoader.loadDataFromFile():Begin load data from file /home/gulong/workspace/MDS/data/20NG/cs_inDomain.arff
+2013/05/15_17:28:02 dataHandling.DataLoader.loadDataFromFile():Total 3930 samples were loaded!
+2013/05/15_17:28:02 dataHandling.Sparse.removeValues():leftValues= 257115.09999999995, sparse_rate=0.9, total_values = 2571151
+2013/05/15_17:28:02 dataHandling.Sparse.removeValues():MIN_ATTR=64
+2013/05/15_17:28:03 dataHandling.Sparse.removeValues():Total 233741 values and 63139 values are changed, changed ratio is 0.2701237694713379
+2013/05/15_17:28:03 graph.main.realCase_sparse():/home/gulong/workspace/MDS/data/20NG/matWekafile_sparse.arff
+2013/05/15_17:28:25 graph.main.realCase_sparse():
+Correctly Classified Instances        2862               80.916  %
+Incorrectly Classified Instances       675               19.084  %
+Kappa statistic                          0.6182
+Mean absolute error                      0.1911
+Root mean squared error                  0.4344
+Relative absolute error                 38.2136 %
+Root relative squared error             86.8798 %
+Coverage of cases (0.95 level)          81.6228 %
+Mean rel. region size (0.95 level)      50.7492 %
+Total Number of Instances             3537     
+
+2013/05/15_17:28:25 graph.main.main():Weight of MDS = 12
+2013/05/15_17:28:25 dataHandling.DataLoader.loadDataFromFile():Begin load data from file /home/gulong/workspace/MDS/data/20NG/cs_inDomain.arff
+2013/05/15_17:28:25 dataHandling.DataLoader.loadDataFromFile():Total 3930 samples were loaded!
+2013/05/15_17:28:26 dataHandling.Sparse.removeValues():leftValues= 280489.19999999995, sparse_rate=0.9, total_values = 2804892
+2013/05/15_17:28:26 dataHandling.Sparse.removeValues():MIN_ATTR=70
+2013/05/15_17:28:26 dataHandling.Sparse.removeValues():Total 233741 values and 57474 values are changed, changed ratio is 0.24588754219413794
+2013/05/15_17:28:26 graph.main.realCase_sparse():/home/gulong/workspace/MDS/data/20NG/matWekafile_sparse.arff
+2013/05/15_17:28:49 graph.main.realCase_sparse():
+Correctly Classified Instances        2886               81.5946 %
+Incorrectly Classified Instances       651               18.4054 %
+Kappa statistic                          0.632 
+Mean absolute error                      0.184 
+Root mean squared error                  0.4248
+Relative absolute error                 36.7985 %
+Root relative squared error             84.956  %
+Coverage of cases (0.95 level)          82.6689 %
+Mean rel. region size (0.95 level)      51.0602 %
+Total Number of Instances             3537     
+
+2013/05/15_17:28:49 graph.main.main():Weight of MDS = 13
+2013/05/15_17:28:49 dataHandling.DataLoader.loadDataFromFile():Begin load data from file /home/gulong/workspace/MDS/data/20NG/cs_inDomain.arff
+2013/05/15_17:28:49 dataHandling.DataLoader.loadDataFromFile():Total 3930 samples were loaded!
+2013/05/15_17:28:50 dataHandling.Sparse.removeValues():leftValues= 303863.29999999993, sparse_rate=0.9, total_values = 3038633
+2013/05/15_17:28:50 dataHandling.Sparse.removeValues():MIN_ATTR=76
+2013/05/15_17:28:50 dataHandling.Sparse.removeValues():Total 233741 values and 52584 values are changed, changed ratio is 0.22496695059916746
+2013/05/15_17:28:50 graph.main.realCase_sparse():/home/gulong/workspace/MDS/data/20NG/matWekafile_sparse.arff
+2013/05/15_17:29:13 graph.main.realCase_sparse():
+Correctly Classified Instances        2939               83.093  %
+Incorrectly Classified Instances       598               16.907  %
+Kappa statistic                          0.6621
+Mean absolute error                      0.1696
+Root mean squared error                  0.4091
+Relative absolute error                 33.9167 %
+Root relative squared error             81.8311 %
+Coverage of cases (0.95 level)          83.6867 %
+Mean rel. region size (0.95 level)      50.6927 %
+Total Number of Instances             3537     
+
+2013/05/15_17:29:13 graph.main.main():Weight of MDS = 14
+2013/05/15_17:29:13 dataHandling.DataLoader.loadDataFromFile():Begin load data from file /home/gulong/workspace/MDS/data/20NG/cs_inDomain.arff
+2013/05/15_17:29:13 dataHandling.DataLoader.loadDataFromFile():Total 3930 samples were loaded!
+2013/05/15_17:29:13 dataHandling.Sparse.removeValues():leftValues= 327237.3999999999, sparse_rate=0.9, total_values = 3272374
+2013/05/15_17:29:13 dataHandling.Sparse.removeValues():MIN_ATTR=82
+2013/05/15_17:29:14 dataHandling.Sparse.removeValues():Total 233741 values and 48425 values are changed, changed ratio is 0.2071737521444676
+2013/05/15_17:29:14 graph.main.realCase_sparse():/home/gulong/workspace/MDS/data/20NG/matWekafile_sparse.arff
+2013/05/15_17:29:37 graph.main.realCase_sparse():
+Correctly Classified Instances        2922               82.6124 %
+Incorrectly Classified Instances       615               17.3876 %
+Kappa statistic                          0.6524
+Mean absolute error                      0.1737
+Root mean squared error                  0.4136
+Relative absolute error                 34.7363 %
+Root relative squared error             82.7297 %
+Coverage of cases (0.95 level)          83.4606 %
+Mean rel. region size (0.95 level)      50.7916 %
+Total Number of Instances             3537     
+
+2013/05/15_17:29:37 graph.main.main():Weight of MDS = 15
+2013/05/15_17:29:37 dataHandling.DataLoader.loadDataFromFile():Begin load data from file /home/gulong/workspace/MDS/data/20NG/cs_inDomain.arff
+2013/05/15_17:29:37 dataHandling.DataLoader.loadDataFromFile():Total 3930 samples were loaded!
+2013/05/15_17:29:37 dataHandling.Sparse.removeValues():leftValues= 350611.49999999994, sparse_rate=0.9, total_values = 3506115
+2013/05/15_17:29:37 dataHandling.Sparse.removeValues():MIN_ATTR=88
+2013/05/15_17:29:38 dataHandling.Sparse.removeValues():Total 233741 values and 44855 values are changed, changed ratio is 0.19190043680826213
+2013/05/15_17:29:38 graph.main.realCase_sparse():/home/gulong/workspace/MDS/data/20NG/matWekafile_sparse.arff
+2013/05/15_17:30:01 graph.main.realCase_sparse():
+Correctly Classified Instances        2938               83.0647 %
+Incorrectly Classified Instances       599               16.9353 %
+Kappa statistic                          0.6612
+Mean absolute error                      0.168 
+Root mean squared error                  0.4018
+Relative absolute error                 33.6019 %
+Root relative squared error             80.368  %
+Coverage of cases (0.95 level)          84.9873 %
+Mean rel. region size (0.95 level)      52.0498 %
+Total Number of Instances             3537     
+
+2013/05/15_17:30:01 graph.main.main():Weight of MDS = 16
+2013/05/15_17:30:01 dataHandling.DataLoader.loadDataFromFile():Begin load data from file /home/gulong/workspace/MDS/data/20NG/cs_inDomain.arff
+2013/05/15_17:30:01 dataHandling.DataLoader.loadDataFromFile():Total 3930 samples were loaded!
+2013/05/15_17:30:01 dataHandling.Sparse.removeValues():leftValues= 373985.5999999999, sparse_rate=0.9, total_values = 3739856
+2013/05/15_17:30:01 dataHandling.Sparse.removeValues():MIN_ATTR=94
+2013/05/15_17:30:02 dataHandling.Sparse.removeValues():Total 233741 values and 41779 values are changed, changed ratio is 0.1787405718295036
+2013/05/15_17:30:02 graph.main.realCase_sparse():/home/gulong/workspace/MDS/data/20NG/matWekafile_sparse.arff
+2013/05/15_17:30:25 graph.main.realCase_sparse():
+Correctly Classified Instances        2887               81.6228 %
+Incorrectly Classified Instances       650               18.3772 %
+Kappa statistic                          0.6317
+Mean absolute error                      0.1832
+Root mean squared error                  0.4217
+Relative absolute error                 36.65   %
+Root relative squared error             84.3596 %
+Coverage of cases (0.95 level)          83.3192 %
+Mean rel. region size (0.95 level)      51.6115 %
+Total Number of Instances             3537     
+
+2013/05/15_17:30:25 graph.main.main():Weight of MDS = 17
+2013/05/15_17:30:25 dataHandling.DataLoader.loadDataFromFile():Begin load data from file /home/gulong/workspace/MDS/data/20NG/cs_inDomain.arff
+2013/05/15_17:30:25 dataHandling.DataLoader.loadDataFromFile():Total 3930 samples were loaded!
+2013/05/15_17:30:25 dataHandling.Sparse.removeValues():leftValues= 397359.6999999999, sparse_rate=0.9, total_values = 3973597
+2013/05/15_17:30:25 dataHandling.Sparse.removeValues():MIN_ATTR=100
+2013/05/15_17:30:26 dataHandling.Sparse.removeValues():Total 233741 values and 39123 values are changed, changed ratio is 0.16737756747853394
+2013/05/15_17:30:26 graph.main.realCase_sparse():/home/gulong/workspace/MDS/data/20NG/matWekafile_sparse.arff
+2013/05/15_17:30:49 graph.main.realCase_sparse():
+Correctly Classified Instances        2830               80.0113 %
+Incorrectly Classified Instances       707               19.9887 %
+Kappa statistic                          0.6002
+Mean absolute error                      0.1997
+Root mean squared error                  0.4456
+Relative absolute error                 39.9464 %
+Root relative squared error             89.1264 %
+Coverage of cases (0.95 level)          80.3789 %
+Mean rel. region size (0.95 level)      50.3534 %
+Total Number of Instances             3537     
+
+2013/05/15_17:30:50 graph.main.main():Weight of MDS = 18
+2013/05/15_17:30:50 dataHandling.DataLoader.loadDataFromFile():Begin load data from file /home/gulong/workspace/MDS/data/20NG/cs_inDomain.arff
+2013/05/15_17:30:50 dataHandling.DataLoader.loadDataFromFile():Total 3930 samples were loaded!
+2013/05/15_17:30:50 dataHandling.Sparse.removeValues():leftValues= 420733.79999999993, sparse_rate=0.9, total_values = 4207338
+2013/05/15_17:30:50 dataHandling.Sparse.removeValues():MIN_ATTR=106
+2013/05/15_17:30:51 dataHandling.Sparse.removeValues():Total 233741 values and 36743 values are changed, changed ratio is 0.15719535725439696
+2013/05/15_17:30:51 graph.main.realCase_sparse():/home/gulong/workspace/MDS/data/20NG/matWekafile_sparse.arff
+2013/05/15_17:31:14 graph.main.realCase_sparse():
+Correctly Classified Instances        2962               83.7433 %
+Incorrectly Classified Instances       575               16.2567 %
+Kappa statistic                          0.675 
+Mean absolute error                      0.1623
+Root mean squared error                  0.3998
+Relative absolute error                 32.4623 %
+Root relative squared error             79.9695 %
+Coverage of cases (0.95 level)          84.3936 %
+Mean rel. region size (0.95 level)      50.7351 %
+Total Number of Instances             3537     
+
+2013/05/15_17:31:14 graph.main.main():Weight of MDS = 19
+2013/05/15_17:31:14 dataHandling.DataLoader.loadDataFromFile():Begin load data from file /home/gulong/workspace/MDS/data/20NG/cs_inDomain.arff
+2013/05/15_17:31:14 dataHandling.DataLoader.loadDataFromFile():Total 3930 samples were loaded!
+2013/05/15_17:31:15 dataHandling.Sparse.removeValues():leftValues= 444107.8999999999, sparse_rate=0.9, total_values = 4441079
+2013/05/15_17:31:15 dataHandling.Sparse.removeValues():MIN_ATTR=112
+2013/05/15_17:31:15 dataHandling.Sparse.removeValues():Total 233741 values and 34586 values are changed, changed ratio is 0.1479671944588241
+2013/05/15_17:31:15 graph.main.realCase_sparse():/home/gulong/workspace/MDS/data/20NG/matWekafile_sparse.arff
+2013/05/15_17:31:39 graph.main.realCase_sparse():
+Correctly Classified Instances        2956               83.5736 %
+Incorrectly Classified Instances       581               16.4264 %
+Kappa statistic                          0.6718
+Mean absolute error                      0.1649
+Root mean squared error                  0.4024
+Relative absolute error                 32.9803 %
+Root relative squared error             80.4775 %
+Coverage of cases (0.95 level)          84.3087 %
+Mean rel. region size (0.95 level)      50.8623 %
+Total Number of Instances             3537     
+
+2013/05/15_17:31:39 graph.main.main():Weight of MDS = 20
+2013/05/15_17:31:39 dataHandling.DataLoader.loadDataFromFile():Begin load data from file /home/gulong/workspace/MDS/data/20NG/cs_inDomain.arff
+2013/05/15_17:31:39 dataHandling.DataLoader.loadDataFromFile():Total 3930 samples were loaded!
+2013/05/15_17:31:39 dataHandling.Sparse.removeValues():leftValues= 467481.9999999999, sparse_rate=0.9, total_values = 4674820
+2013/05/15_17:31:39 dataHandling.Sparse.removeValues():MIN_ATTR=118
+2013/05/15_17:31:40 dataHandling.Sparse.removeValues():Total 233741 values and 32705 values are changed, changed ratio is 0.13991982579008388
+2013/05/15_17:31:40 graph.main.realCase_sparse():/home/gulong/workspace/MDS/data/20NG/matWekafile_sparse.arff
+2013/05/15_17:32:03 graph.main.realCase_sparse():
+Correctly Classified Instances        2928               82.782  %
+Incorrectly Classified Instances       609               17.218  %
+Kappa statistic                          0.6558
+Mean absolute error                      0.1722
+Root mean squared error                  0.4126
+Relative absolute error                 34.432  %
+Root relative squared error             82.5186 %
+Coverage of cases (0.95 level)          83.2627 %
+Mean rel. region size (0.95 level)      50.5655 %
+Total Number of Instances             3537     
+
+2013/05/15_17:32:03 graph.main.main():Weight of MDS = 21
+2013/05/15_17:32:03 dataHandling.DataLoader.loadDataFromFile():Begin load data from file /home/gulong/workspace/MDS/data/20NG/cs_inDomain.arff
+2013/05/15_17:32:03 dataHandling.DataLoader.loadDataFromFile():Total 3930 samples were loaded!
+2013/05/15_17:32:04 dataHandling.Sparse.removeValues():leftValues= 490856.0999999999, sparse_rate=0.9, total_values = 4908561
+2013/05/15_17:32:04 dataHandling.Sparse.removeValues():MIN_ATTR=124
+2013/05/15_17:32:04 dataHandling.Sparse.removeValues():Total 233741 values and 31030 values are changed, changed ratio is 0.13275377447687825
+2013/05/15_17:32:04 graph.main.realCase_sparse():/home/gulong/workspace/MDS/data/20NG/matWekafile_sparse.arff
+2013/05/15_17:32:27 graph.main.realCase_sparse():
+Correctly Classified Instances        2952               83.4606 %
+Incorrectly Classified Instances       585               16.5394 %
+Kappa statistic                          0.6692
+Mean absolute error                      0.165 
+Root mean squared error                  0.4001
+Relative absolute error                 32.997  %
+Root relative squared error             80.0167 %
+Coverage of cases (0.95 level)          85.0155 %
+Mean rel. region size (0.95 level)      51.4702 %
+Total Number of Instances             3537     
+
+2013/05/15_17:32:27 graph.main.main():Weight of MDS = 22
+2013/05/15_17:32:27 dataHandling.DataLoader.loadDataFromFile():Begin load data from file /home/gulong/workspace/MDS/data/20NG/cs_inDomain.arff
+2013/05/15_17:32:28 dataHandling.DataLoader.loadDataFromFile():Total 3930 samples were loaded!
+2013/05/15_17:32:28 dataHandling.Sparse.removeValues():leftValues= 514230.1999999999, sparse_rate=0.9, total_values = 5142302
+2013/05/15_17:32:28 dataHandling.Sparse.removeValues():MIN_ATTR=130
+2013/05/15_17:32:29 dataHandling.Sparse.removeValues():Total 233741 values and 29560 values are changed, changed ratio is 0.12646476227961717
+2013/05/15_17:32:29 graph.main.realCase_sparse():/home/gulong/workspace/MDS/data/20NG/matWekafile_sparse.arff
+2013/05/15_17:32:52 graph.main.realCase_sparse():
+Correctly Classified Instances        2882               81.4815 %
+Incorrectly Classified Instances       655               18.5185 %
+Kappa statistic                          0.6297
+Mean absolute error                      0.1852
+Root mean squared error                  0.4279
+Relative absolute error                 37.0398 %
+Root relative squared error             85.578  %
+Coverage of cases (0.95 level)          82.0469 %
+Mean rel. region size (0.95 level)      50.5372 %
+Total Number of Instances             3537     
+
+2013/05/15_17:32:52 graph.main.main():Weight of MDS = 23
+2013/05/15_17:32:52 dataHandling.DataLoader.loadDataFromFile():Begin load data from file /home/gulong/workspace/MDS/data/20NG/cs_inDomain.arff
+2013/05/15_17:32:52 dataHandling.DataLoader.loadDataFromFile():Total 3930 samples were loaded!
+2013/05/15_17:32:52 dataHandling.Sparse.removeValues():leftValues= 537604.2999999999, sparse_rate=0.9, total_values = 5376043
+2013/05/15_17:32:52 dataHandling.Sparse.removeValues():MIN_ATTR=136
+2013/05/15_17:32:53 dataHandling.Sparse.removeValues():Total 233741 values and 28243 values are changed, changed ratio is 0.12083032073962206
+2013/05/15_17:32:53 graph.main.realCase_sparse():/home/gulong/workspace/MDS/data/20NG/matWekafile_sparse.arff
+2013/05/15_17:33:17 graph.main.realCase_sparse():
+Correctly Classified Instances        2879               81.3967 %
+Incorrectly Classified Instances       658               18.6033 %
+Kappa statistic                          0.6279
+Mean absolute error                      0.1863
+Root mean squared error                  0.4308
+Relative absolute error                 37.2505 %
+Root relative squared error             86.166  %
+Coverage of cases (0.95 level)          81.5663 %
+Mean rel. region size (0.95 level)      50.1838 %
+Total Number of Instances             3537     
+
+2013/05/15_17:33:17 graph.main.main():Weight of MDS = 24
+2013/05/15_17:33:17 dataHandling.DataLoader.loadDataFromFile():Begin load data from file /home/gulong/workspace/MDS/data/20NG/cs_inDomain.arff
+2013/05/15_17:33:17 dataHandling.DataLoader.loadDataFromFile():Total 3930 samples were loaded!
+2013/05/15_17:33:17 dataHandling.Sparse.removeValues():leftValues= 560978.3999999999, sparse_rate=0.9, total_values = 5609784
+2013/05/15_17:33:17 dataHandling.Sparse.removeValues():MIN_ATTR=142
+2013/05/15_17:33:18 dataHandling.Sparse.removeValues():Total 233741 values and 27045 values are changed, changed ratio is 0.11570498971083379
+2013/05/15_17:33:18 graph.main.realCase_sparse():/home/gulong/workspace/MDS/data/20NG/matWekafile_sparse.arff
